@@ -12,9 +12,11 @@
     <div class="header-top">
         <div class="content-body">
             <header>
-                <h2>Seu app Delivery testando</h2>
-                <p class="text-p">Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                    Hic commodi ut libero maiores deleniti</p>
+
+                <h2 class="title-delivery">App Delivery2</h2>
+                <p class="text-delivery">Agora vai!</p>
+
+       
             </header>
         </div>
     </div>
